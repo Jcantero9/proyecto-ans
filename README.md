@@ -162,7 +162,7 @@ jupyter notebook notebooks/dry_beans_clustering.ipynb
 
 ## Autor y licencia
 
-Desarrollado por _(completar nombre)_ para el módulo de Aprendizaje No Supervisado de la MSCIA, FIUNA, 2026.
+Desarrollado por José Eduardo Cantero Id para el módulo de Aprendizaje No Supervisado de la MSCIA, FIUNA, 2026.
 
 Licencia sugerida: MIT _(agregar un archivo `LICENSE` si se desea)_.
 
